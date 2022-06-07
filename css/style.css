@@ -32,6 +32,13 @@ body {
     padding: 1rem 0;
 }
 
+h2 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 19px;
+    margin-bottom: 1rem;
+}
+
 /* attribution */
 .attribution {
     font-size: 11px;
