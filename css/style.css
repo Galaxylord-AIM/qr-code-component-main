@@ -1,9 +1,11 @@
+/* css reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* body styling */
 body {
     background-color: hsl(212, 45%, 89%);
     font-size: 15px;
@@ -11,6 +13,7 @@ body {
     max-width: 1440px;
 }
 
+/* card main outline */
 .card {
     background-color: hsl(0, 0%, 100%);
     width: 20rem;
@@ -19,12 +22,14 @@ body {
     padding: 1rem;
 }
 
+/* designing the image */
 .qr-code-img {
     width: 100%;
     /* height: 18rem; */
     border-radius: 1rem;
 }
 
+/* working on the text */
 .content {
     margin: auto;
     width: 16rem;
