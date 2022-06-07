@@ -25,6 +25,13 @@ body {
     border-radius: 1rem;
 }
 
+.content {
+    margin: auto;
+    width: 16rem;
+    text-align: center;
+    padding: 1rem 0;
+}
+
 /* attribution */
 .attribution {
     font-size: 11px;
