@@ -11,6 +11,14 @@ body {
     max-width: 1440px;
 }
 
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 20rem;
+    margin: 9% auto;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
 /* attribution */
 .attribution {
     font-size: 11px;
